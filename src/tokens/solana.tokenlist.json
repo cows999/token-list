@@ -1,10 +1,9 @@
-[
-  {
-    "name": "Cows",
-    "symbol": "CW",
-    "address": "FChSJJ7nfuDCxJNfuYzVhfgA135qJGUrsk9PYz6Vpump",
-    "decimals": 6,
-    "logoURI": "https://ipfs.io/ipfs/bafkreidme5nugr2wxr4ar4kb62h6e3uyvujmgqkrtrb34b6bmlcwqwddgy",
-    "tags": ["community-token"]
-  }
-]
+,
+{
+  "name": "Cows",
+  "symbol": "CW",
+  "address": "FChSJJ7nfuDCxJNfuYzVhfgA135qJGUrsk9PYz6Vpump",
+  "decimals": 6,
+  "logoURI": "https://ipfs.io/ipfs/bafkreidme5nugr2wxr4ar4kb62h6e3uyvujmgqkrtrb34b6bmlcwqwddgy",
+  "tags": ["community-token"]
+}
