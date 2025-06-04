@@ -1,10 +1,10 @@
-,
-{
-  "chainId": 101,
-  "address": "FChSJJ7nfuDCxJNfuYzVhfgA135qJGUrsk9PYz6Vpump",
-  "symbol": "CW",
-  "name": "COWS",
-  "decimals": 6,
-  "logoURI": "https://IPFS_OR_LINK/cows_token_logo_64x64.png",
-  "tags": ["pump", "meme", "community"]
-}
+[
+  {
+    "name": "Cows",
+    "symbol": "CW",
+    "address": "FChSJJ7nfuDCxJNfuYzVhfgA135qJGUrsk9PYz6Vpump",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafkreidme5nugr2wxr4ar4kb62h6e3uyvujmgqkrtrb34b6bmlcwqwddgy",
+    "tags": ["community-token"]
+  }
+]
